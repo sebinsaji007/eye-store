@@ -53,7 +53,7 @@ const Modal = ({ showModal, setShowModal }) => {
       amount: totalPriceOfCartProducts * 100,
       currency: "INR",
       name: "Eyesome",
-      description: "Be awesome with eyesome :)",
+      description: "Be awesome withEyewear :)",
       image: appLogo,
       handler: function () {
         clearCart();
